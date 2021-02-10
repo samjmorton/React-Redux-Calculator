@@ -1,0 +1,86 @@
+[
+  {
+    "buttons": [
+      {
+				"className": "dark",
+        "value": "AC"
+      },
+      {
+				"className": "dark",
+        "value": "+/-"
+      },
+      {
+				"className": "dark",
+        "value": "%"
+      },
+      {
+				"className": "orange",
+        "value": "/"
+      }
+    ]
+  },
+  {
+    "buttons": [
+      {
+        "value": "7"
+      },
+      {
+        "value": "8"
+      },
+      {
+        "value": "9"
+      },
+      {
+				"className": "orange",
+        "value": "x"
+      }
+    ]
+  },
+  {
+    "buttons": [
+      {
+        "value": "4"
+      },
+      {
+        "value": "5"
+      },
+      {
+        "value": "6"
+      },
+      {
+				"className": "orange",
+        "value": "-"
+      }
+    ]
+  },
+  {
+    "buttons": [
+      {
+        "value": "1"
+      },
+      {
+        "value": "2"
+      },
+      {
+        "value": "3"
+      },
+      {
+				"className": "orange",
+        "value": "+"
+      }
+    ]
+	},
+	{
+    "buttons": [
+      {
+        "value": "0"
+      },
+      {
+        "value": "."
+      },
+      {
+        "value": "="
+      }
+    ]
+  }
+]
